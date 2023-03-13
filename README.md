@@ -15,13 +15,7 @@ Key Skills: Data Science · Python (Programming Language) · SQL · Tableau · M
 - 😄 Pronouns: He/Him    
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamwankar)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamwankar)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamwankar&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/shubhamwankar)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhamwankar)  
 
