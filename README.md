@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there! I'm Shubham Wankar! 👋
 
-<!--
-**shubhamwankar/shubhamwankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Junior Data Scientist @ Zummit Infolabs | Ex-Senior Investigation Specialist @ Amazon | Masters in Data Science @ Liverpool's John Moores University | Postgraduate Diploma in Data Science @ IIIT-B   
+    
+Certified Data Scientist with an experience of 5+ years in Operations with advanced understanding of statistical and analytical techniques. Well acquainted with gathering, cleaning and organizing data for use by technical and nontechnical personnel. Customer-obsessed selfstarter with acumen to build and maintain tools, extract and consolidate data, conduct analysis, and provide insights.   
+   
+Key Skills: Data Science · Python (Programming Language) · SQL · Tableau · Microsoft Power BI · Microsoft Excel · Data Analytics · Data Analysis · R (Programming Language) · Statistical Data Analysis · Data Mining · Predictive Analytics · Data Wrangling · Data Visualization · Data Cleaning · Microsoft PowerPoint · Data Acquisition · Data Modeling · Pandas (Software) · TensorFlow · Scikit-Learn · Machine Learning · Artificial Intelligence (AI) · Deep Learning · Reinforcement Learning · Neural Networks · MySQL · Git · Shell · Business Communication · 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Sentiment Analysis on Product Reviews](https://github.com/SamDineshSD777/Sentiment-Analysis-on-Product-Reviews/tree/shubham-latest)
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👯 I’m looking to collaborate on Data Science / ML Projects
+- 🤔 I’m looking for Data Scientist and Data Analyst roles
+- 💬 Ask me about Python, Data Science and Machine Learning
+- 📫 How to reach me: shubhamwankar23@gmail.com
+- 😄 Pronouns: He/Him    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamwankar)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamwankar)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamwankar&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/shubhamwankar)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shubhamwankar)  
+
+![Profile views](https://gpvc.arturio.dev/shubhamwankar)  
