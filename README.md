@@ -1,16 +1,16 @@
 ### Hi there! I'm Shubham Wankar! 👋
 
-#### Junior Data Scientist @ Zummit Infolabs | Ex-Senior Investigation Specialist @ Amazon | Masters in Data Science @ Liverpool's John Moores University | Postgraduate Diploma in Data Science @ IIIT-B   
+#### Data Scientist @ Invictus Performance Labs | Ex-Senior Investigation Specialist @ Amazon | Masters in Data Science @ Liverpool's John Moores University | Postgraduate Diploma in Data Science @ IIIT-B   
     
-Certified Data Scientist with an experience of 5+ years in Operations with advanced understanding of statistical and analytical techniques. Well acquainted with gathering, cleaning and organizing data for use by technical and nontechnical personnel. Customer-obsessed selfstarter with acumen to build and maintain tools, extract and consolidate data, conduct analysis, and provide insights.   
+Certified Data Scientist with an experience of 6+ years in Operations with advanced understanding of statistical and analytical techniques. Well acquainted with gathering, cleaning and organizing data for use by technical and nontechnical personnel. Customer-obsessed selfstarter with acumen to build and maintain tools, extract and consolidate data, conduct analysis, and provide insights.   
    
 Key Skills: Data Science · Python (Programming Language) · SQL · Tableau · Microsoft Power BI · Microsoft Excel · Data Analytics · Data Analysis · R (Programming Language) · Statistical Data Analysis · Data Mining · Predictive Analytics · Data Wrangling · Data Visualization · Data Cleaning · Microsoft PowerPoint · Data Acquisition · Data Modeling · Pandas (Software) · TensorFlow · Scikit-Learn · Machine Learning · Artificial Intelligence (AI) · Deep Learning · Reinforcement Learning · Neural Networks · MySQL · Git · Shell · Business Communication · 
 
-- 🔭 I’m currently working on [Sentiment Analysis on Product Reviews](https://github.com/SamDineshSD777/Sentiment-Analysis-on-Product-Reviews/tree/shubham-latest)
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🔭 I’m currently working with Invictus Performance Labs building tools to optimize the training and health of individuals
+- 🌱 I’m currently learning RAG LLM Techniques
 - 👯 I’m looking to collaborate on Data Science / ML Projects
-- 🤔 I’m looking for Data Scientist and Data Analyst roles
-- 💬 Ask me about Python, Data Science and Machine Learning
+- 🤔 I’m looking for Data Scientist roles
+- 💬 Ask me about Python, Data Science, Machine Learning and Google Workspace Automation
 - 📫 How to reach me: shubhamwankar23@gmail.com
 - 😄 Pronouns: He/Him    
 
